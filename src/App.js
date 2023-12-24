@@ -1,8 +1,8 @@
 
 import React from 'react';
-import Intro from './project-new/Intro';
-import About from './project-new/Detailpage';
-import Portfolio from './project-new/Portfolio';
+import Intro from './Intro';
+import About from './Detailpage';
+import Portfolio from './Portfolio';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
